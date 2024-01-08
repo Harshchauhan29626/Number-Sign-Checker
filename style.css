@@ -1,0 +1,33 @@
+.main {
+    border-radius: 49px;
+    background: linear-gradient(225deg, #ce6161, #f57474);
+    box-shadow: -16px 16px 27px #793939,
+        16px -16px 27px #ff9f9f;
+    height: 17rem;
+    width: 30rem;
+    box-sizing: border-box;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 2.5rem;
+}
+
+label{
+    font-size: 20px;
+}
+
+input{
+    height: 1rem;
+}
+
+#p1{
+    font-size: 20px;
+    margin-top: 2rem;
+}
